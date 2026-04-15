@@ -78,7 +78,7 @@ export function TextArea() {
       <Field>
         <div className="flex flex-col gap-10 pb-10">
           <p className="font-bold text-2xl">Article Quiz Generator</p>
-          <p>
+          <p className="text-gray-400 text-sm">
             Paste your article content below to generate a summary and quiz
             questions. Your articles will be saved in the sidebar for future
             reference.
